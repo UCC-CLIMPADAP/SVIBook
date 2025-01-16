@@ -4,10 +4,10 @@ name: githubact-build-deploy-book
 on:
   push:
     branches:
-    - 'develop'
+    - 'gh-pages'
   pull_request:
     branches:
-    - 'develop'
+    - 'gh-pages'
 
   # Allow workflow to be dispatched on demand
   workflow_dispatch:
@@ -51,14 +51,14 @@ jobs:
         jupyter-book build .
 
     - name: Upload build
-      if: github.ref == 'refs/heads/develop'
+      if: github.ref == 'refs/heads/gh-pages'
       uses: actions/upload-pages-artifact@v3
       with:
         path: ./_build/html
 
   # This job publishes the book to Github Pages
   deploy:
-    if: github.ref == 'refs/heads/develop'
+    if: github.ref == 'refs/heads/gh-pages'
 
     # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
     permissions:
