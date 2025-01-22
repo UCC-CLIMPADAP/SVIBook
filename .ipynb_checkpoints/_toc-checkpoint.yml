@@ -24,17 +24,9 @@ parts:
 - caption: Step by step user guide
   chapters:     # A list of entries, each of which maps onto chapters of your book.
     - file: UsrGuide/Overview
-    - file: UsrGuide/Folder_Structure
     - file: UsrGuide/External_Data
     - file: UsrGuide/Internal_Data
-    - file: UsrGuide/Methodologies
-      sections:     # A list of entries that define sub-sections of a chapter. This is useful if you’d like to split a chapter across multiple pages.
-        - file: UsrGuide/Methodologies/Overview
-        - file: UsrGuide/Methodologies/Mean_of_all_Indicators
-        - file: UsrGuide/Methodologies/Weighted_mean
-        - file: UsrGuide/Methodologies/Using_PCA
-        - file: UsrGuide/Methodologies/Using_PCA_Each_domain
-    - file: UsrGuide/Comparing_Methodologies
+    - file: UsrGuide/Methodology
 - caption: Case Studies
   chapters:     # A list of entries, each of which maps onto chapters of your book.
     - file: Cities/Athens
