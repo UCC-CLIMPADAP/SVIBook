@@ -1,1 +1,0 @@
-# Heading: Cities/Cork.md

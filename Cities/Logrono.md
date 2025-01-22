@@ -1,0 +1,3 @@
+# Logroño 
+(Spanish: [loˈɣɾoɲo] ⓘ) (From Wikipedia)
+The capital of the autonomous community of La Rioja, Spain. Located in the north of the Iberian Peninsula, primarily in the right (South) bank of the Ebro River, Logroño has historically been a place of passage, such as the Camino de Santiago. Its borders were disputed between the Iberian kingdoms of Castille, Navarre and Aragon during the Middle Ages.

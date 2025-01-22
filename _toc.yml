@@ -24,40 +24,32 @@ parts:
 - caption: Step by step user guide
   chapters:     # A list of entries, each of which maps onto chapters of your book.
     - file: UsrGuide/Overview
-    - file: UsrGuide/External_Data
-    - file: UsrGuide/Internal_Data
     - file: UsrGuide/Methodology
+    - file: UsrGuide/Internal_Data
+    - file: UsrGuide/External_Data
 - caption: Case Studies
   chapters:     # A list of entries, each of which maps onto chapters of your book.
     - file: Cities/Athens
       sections:     # A list of entries that define sub-sections of a chapter. This is useful if you’d like to split a chapter across multiple pages.
-        - file: Cities/Athens/Overview
-        - file: Cities/Athens/Census_Data
-        - file: Cities/Athens/Indicators
+        - file: Cities/Athens/Census_Data_to_Indicators
         - file: Cities/Athens/Domains
         - file: Cities/Athens/Dimensions
         - file: Cities/Athens/Vulnerability_Index
     - file: Cities/Cork
       sections:     # A list of entries that define sub-sections of a chapter. This is useful if you’d like to split a chapter across multiple pages.
-        - file: Cities/Cork/Overview
-        - file: Cities/Cork/Census_Data
-        - file: Cities/Cork/Indicators
+        - file: Cities/Cork/Census_Data_to_Indicators
         - file: Cities/Cork/Domains
         - file: Cities/Cork/Dimensions
         - file: Cities/Cork/Vulnerability_Index
     - file: Cities/Logrono
       sections:     # A list of entries that define sub-sections of a chapter. This is useful if you’d like to split a chapter across multiple pages.
-        - file: Cities/Logrono/Overview
-        - file: Cities/Logrono/Census_Data
-        - file: Cities/Logrono/Indicators
+        - file: Cities/Logrono/Census_Data_to_Indicators
         - file: Cities/Logrono/Domains
         - file: Cities/Logrono/Dimensions
         - file: Cities/Logrono/Vulnerability_Index
     - file: Cities/Milan
       sections:     # A list of entries that define sub-sections of a chapter. This is useful if you’d like to split a chapter across multiple pages.
-        - file: Cities/Milan/Overview
-        - file: Cities/Milan/Census_Data
-        - file: Cities/Milan/Indicators
+        - file: Cities/Milan/Census_Data_to_Indicators
         - file: Cities/Milan/Domains
         - file: Cities/Milan/Dimensions
         - file: Cities/Milan/Vulnerability_Index

@@ -1,0 +1,3 @@
+# Athens
+(/ˈæθɪnz/ ATH-inz)  (From Wikipedia)
+The capital and largest city of Greece. A major coastal urban area in the Mediterranean, Athens is also the capital of the Attica region and is the southernmost capital on the European mainland. With its urban area's population numbering over 3.6 million, it is the eighth largest urban area in the European Union. The Municipality of Athens (also City of Athens), which constitutes a small administrative unit of the entire urban area, had a population of 643,452 (2021) within its official limits, and a land area of 38.96 km2 (15.04 sq mi).
