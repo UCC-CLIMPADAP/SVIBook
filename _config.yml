@@ -24,7 +24,7 @@ latex:
     
 
 repository:
-  url: https://ucc-climpadap.github.io/SVIBook/ # Online location of your book
+  url: https://github.com/UCC-CLIMPADAP/SVIBook # Online location of your book
   branch: gh-pages # Which branch of the repository should be used when creating links (optional)
 
 # Add GitHub buttons to your book
