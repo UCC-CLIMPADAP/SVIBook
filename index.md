@@ -31,9 +31,6 @@ Social Vulnerability Index theoretical description
 ## <i class="fas fa-sitemap" style="color:#6dae5c"></i> [User guide](UsrGuide/Overview.md)
 Detailed description and guide for the users of this tool 
 
-## <i class="fas fa-users" style="color:#9933ff"></i> [Case Studies: Athens](Cities/Athens.md)
-Social vulnerability index for Athens
-
 ## <i class="fas fa-users" style="color:#9933ff"></i> [Case Studies: Cork](Cities/Cork.md)
 Social vulnerability index for Cork
 

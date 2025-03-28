@@ -1,1 +1,2 @@
 # Dimensions
+Each domain is associated with one or more of the 3 dimensions of social vulnerability (Sensitivity, Adaptive capacity & Enhanced Exposure). The domains relevant to each dimension are combined to obtain a value for the dimension. For optimal results, at least two domains should be included in each dimension. Each dimension was then standardised using Z-scores. By applying the dimensions separately users can identify the key drivers of social vulnerability in an area.

@@ -24,8 +24,7 @@ parts:
   chapters:     # A list of entries, each of which maps onto chapters of your book.
     - file: UsrGuide/Overview
     - file: UsrGuide/Methodology
-    - file: UsrGuide/Internal_Data
-    - file: UsrGuide/External_Data
+    - file: UsrGuide/DataDescription
 - caption: Case Studies
   chapters:     # A list of entries, each of which maps onto chapters of your book.
 #    - file: Cities/Athens
