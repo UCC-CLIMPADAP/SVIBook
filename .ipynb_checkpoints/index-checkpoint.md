@@ -22,9 +22,6 @@ The tool is designed to assess communities’ vulnerability to climate hazards s
 ## <i class="fas fa-concierge-bell" style="color:#1665ad"></i> [Introduction](introduction/overview.md)
 Social Vulnerability tool description, software installation
 
-## <i class="fab fa-python" style="color:#ffd053"></i> [Coding Fundamentals](Coding_fundamentals/basics.md)
-Basic Coding programming
-
 ## <i class="fas fa-road" style="color:#d45f6c"></i> [Social Vulnerability Index](SVI_Descr/Why.md)
 Social Vulnerability Index theoretical description
 
