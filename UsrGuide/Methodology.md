@@ -49,8 +49,11 @@ The whole vulnerability index is then estimated aggregating all the relevant ind
 
 $$
 SVI = \sum_{1}^{n} \sum_{1}^{m} W_{mn} * ind_{m}
-W_{mn} = \feac{1}{m}
 $$
+$$
+W_{mn} = \frac{1}{m}
+$$
+
 
 Where SVI is the vulnerability index, indm  is the mth indicator, m is the total number of indicators for each n domain, and Wmn is the weight of the mth indicator for the nth domain.  
 
@@ -59,7 +62,13 @@ This second scenario is recommended for cases where domains have single indicato
 
 $$
 SVI = \sum_{1}^{n} \sum_{1}^{m} W_{mn} * ind_{m}
-W_{mn} = \feac{1}{m}
+$$
+$$
+W_{mn}=
+\begin{cases}
+\frac{1}{2m} if m = 1 or missing key indicators,\\
+\frac{1}{m} otherwise
+\end{cases}
 $$
 
 ### Tier 3 
@@ -79,7 +88,7 @@ Once the PCA is performed, the proportion of total variance explained by each pr
 While <a href="https://www.nature.com/articles/s41598-024-68060-z">Wehbe and Baroud</a> have highlighted limitations to using composite indicators with regard to identifying specific patterns, so that the needs of specific vulnerable groups can be addressed, the research here attempts to counteract this by providing an option for each of the indicators to be viewed as a single stand-alone product, before being combined into dimensions and then finally into a vulnerability index. 
 
 *Visual representation of the SVI for flooding in Cork, alongside indicator specific representations (top left: population aged over 75; bottom left: unemployment; top right: one person households; bottom right: overall vulnerability).*
-|![alt](cork_city_age_75plus_2022_300dpi.png) |![alt](cork_city_one_person_households_2022_300dpi.jpg)|
+|![alt](cork_city_age_75plus_2022_300dpi.png) |![alt](cork_city_one_person_households_2022_300dpi.png)|
 |-|-|
 |![alt](cork_city_unemployment_2022_300dpi.png) | ![alt](cork_city_social_vulnerability_index_2022_300dpi.png)
 
