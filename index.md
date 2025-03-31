@@ -1,5 +1,3 @@
-![Reachout_Logo](Reachout_Logo.png)
-
 # <center>The Social Vulnerability Index (SVI) Tool Handbook
 <center> <a href="https://www.linkedin.com/in/walther-c-67b09517/">Walther Cámaro García</a>, <a href="https://www.linkedin.com/in/denise-mccullagh-7905761b7/">Denise McCullagh</a>, <a href="https://www.linkedin.com/in/declandunne/">Declan Dunne</a>, <a href="https://www.linkedin.com/in/cathal-gannon/">Cathal Gannon</a>, <a href="https://www.linkedin.com/in/christopher-phillips-051745137/">Christopher Phillips</a> and <a href="https://www.linkedin.com/in/lydiacumiskey/">Lydia Cumiskey</a> </center>
 <br />
@@ -42,3 +40,4 @@ Social vulnerability index for Milan
 ## Acknowledgements#
 The authors would like to thank the local authorities in each of the regions who have contributed by providing a municipal specific perspective, allowing the SVI to be tailored to best fit the area. 
 This work was primarily supported by the REACHOUT project, which has received funding from the European Union's Horizon 2020 research and innovation program (grant number 101036599). There was also additional support from the Environmental Protection Agency (EPA) Research Programme 2021–2030, as a part of the TALX2 project (grant number 2023-CE-1227) and the European Union's Horizon 2020 research and innovation program through the Directed project (grant number 101073978).
+![Reachout_Logo](Reachout_Logo.png)
