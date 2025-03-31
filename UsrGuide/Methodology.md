@@ -71,6 +71,8 @@ W_{mn}=
 \end{cases}
 $$
 
+Where SVI is the vulnerability index, indm is the mth indicator, m is the total number of indicators for each n domain, and Wmn is the weight of the mth indicator for the nth domain.  
+
 ### Tier 3 
 This third scenario is used in cases where there is only a single domain in any of the three main dimensions. In these cases, the methodology applied to calculating the weighting coefficient is the same as that of the second tier, but the final index is considered less robust and based on a dimension with less information. Some consideration should be taken before making climate decisions based entirely on the social vulnerability index in this scenario. 
 
