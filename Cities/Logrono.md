@@ -14,7 +14,7 @@ Indicators available in Logroño, Spain, to determine vulnerability to extreme h
 |One parent households	|Income	|Adaptive Capacity – Ability to Prepare/Respond/Recover	|One parent households are more likely to have less disposable income compared to other households |
 |Dependents rate	|Income	|Adaptive Capacity – Ability to Prepare/Respond/Recover	|People with dependents may struggle to respond to and recover from extreme climatic events |
 |Unemployment	|Income	|Adaptive Capacity – Ability to Prepare/Respond/Recover	|Unemployed persons are more likely to have less incomes, and have limited ability to make physical adjustments to their property to adapt to extreme heat |
-|Population attending university	|Income	|Adaptive Capacity – Ability to Prepare/Respond/Recover	Students are more likely to have lower incomes, plus have limited ability to make physical adjustments to their property to adapt to extreme heat |
+|Population attending university	|Income	|Adaptive Capacity – Ability to Prepare/Respond/Recover	|Students are more likely to have lower incomes, plus have limited ability to make physical adjustments to their property to adapt to extreme heat |
 |Population with no higher education	|Information Access/Use	|Adaptive Capacity – Ability to Prepare/Respond/Recover	|People with no formal education may find it difficult to interpret and/or act up on information received |
 |Percentage of foreign nationals	|Local Knowledge	|Adaptive Capacity – Ability to Prepare/Respond	|Foreign nationals are likely to have less local knowledge and be less aware of hazards |
 |Households renting	|Tenure	|Adaptive Capacity – Ability to Prepare	|Renters are more likely to have lower incomes, plus have limited ability to make physical adjustments to their property to adapt to extreme heat |
@@ -25,7 +25,7 @@ Indicators available in Logroño, Spain, to determine vulnerability to extreme h
 |Tree cover	|Physical Environment	|Enhanced Exposure	|Increased area of tree cover and greenspace reduces the urban heat island affect |
 
 
-```{image} logrono_social_vulnerability_index_2021_300dpi_NEW
+```{image} logrono_social_vulnerability_index_2021_300dpi_NEW.png
 :alt: LogronoVulnerability
 :class: bg-primary mb-1
 :width: 500px
