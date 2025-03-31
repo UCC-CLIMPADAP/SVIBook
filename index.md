@@ -4,8 +4,8 @@
 
 
 
-```{image} CorkCity_Vulnerability_Index_Neighb.png
-:alt: Vulnerability_Index_Logo
+```{image} cork_city_social_vulnerability_index_2022_300dpi.png
+:alt: Vulnerability_Cork
 :class: bg-primary mb-1
 :width: 500px
 :align: center
