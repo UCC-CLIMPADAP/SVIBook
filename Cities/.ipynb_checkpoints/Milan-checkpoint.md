@@ -22,3 +22,9 @@ Indicators available in Milan, Italy, to determine vulnerability to extreme heat
 |Impervious surface	                    |Physical Environment	|Enhanced Exposure	                                    |Increased area of impervious surface enhances the urban heat island affect                                                                                |
 |Tree cover	                            |Physical Environment	|Enhanced Exposure	                                    |Increased area of tree cover and greenspace reduces the urban heat island affect                                                                          |
 
+```{image} milan_social_vulnerability_index_2021_300dpi.png
+:alt: MilanVulnerability
+:class: bg-primary mb-1
+:width: 500px
+:align: center
+```
