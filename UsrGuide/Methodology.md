@@ -66,8 +66,8 @@ $$
 $$
 W_{mn}=
 \begin{cases}
-\frac{1}{2m} if m = 1 or missing key indicators,\\
-\frac{1}{m} otherwise
+\frac{1}{2m} if m = 1 \text{or missing key indicators,}\\
+\frac{1}{m} \text{otherwise}
 \end{cases}
 $$
 
