@@ -13,14 +13,14 @@ parts:
 #- caption: Coding Fundamentals
 #  chapters:     # A list of entries, each of which maps onto chapters of your book.
 #    - file: Coding_fundamentals/basics
-- caption: Social Vulnerability Index Description
+- caption: Social Vulnerability Concepts
   chapters:     # A list of entries, each of which maps onto chapters of your book.
     - file: SVI_Descr/Why
     - file: SVI_Descr/Indicators
     - file: SVI_Descr/Domains
     - file: SVI_Descr/Dimensions
     - file: SVI_Descr/Social_Vulnerability
-- caption: Step by step user guide
+- caption: User Guide
   chapters:     # A list of entries, each of which maps onto chapters of your book.
     - file: UsrGuide/Overview
     - file: UsrGuide/Methodology
