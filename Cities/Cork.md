@@ -35,7 +35,7 @@ Indicators available in Cork City, Ireland to determine vulnerability to floodin
 |Tree cover	|Physical Environment	|Enhanced Exposure	|Increased area of tree cover and greenspace reduces the impacts of flooding |
 
 
-```{image} cork_city_social_vulnerability_index_2022_300dpi.png
+```{image} ./img/cork_city_social_vulnerability_index_2022_300dpi.png
 :alt: CorkVulnerability
 :class: bg-primary mb-1
 :width: 500px

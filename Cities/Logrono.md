@@ -25,7 +25,7 @@ Indicators available in Logroño, Spain, to determine vulnerability to extreme h
 |Tree cover	|Physical Environment	|Enhanced Exposure	|Increased area of tree cover and greenspace reduces the urban heat island affect |
 
 
-```{image} logrono_social_vulnerability_index_2021_300dpi_NEW.png
+```{image} ./img/logrono_social_vulnerability_index_2021_300dpi_NEW.png
 :alt: LogronoVulnerability
 :class: bg-primary mb-1
 :width: 500px

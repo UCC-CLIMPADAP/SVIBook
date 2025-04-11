@@ -23,7 +23,7 @@ Indicators available in Milan, Italy, to determine vulnerability to extreme heat
 |Tree cover	                            |Physical Environment	|Enhanced Exposure	                                    |Increased area of tree cover and greenspace reduces the urban heat island affect                                                                          |
 
 
-```{image} milan_social_vulnerability_index_2021_300dpi.png
+```{image} ./img/milan_social_vulnerability_index_2021_300dpi.png
 :alt: MilanVulnerability
 :class: bg-primary mb-1
 :width: 500px
