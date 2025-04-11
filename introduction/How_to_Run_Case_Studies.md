@@ -60,7 +60,7 @@ For more detailed information regarding the concepts behind the indicators check
    - Navigate to the directory where your notebook is located using the file browser on the left.
    - You can download every notebook by clicking on the download button at the right top of the webpage.
      ![Download notebook](./img/download-notebook.png)
-   - The notebook file will have a `.ipynb` extension that you can open it in a Jupyter Notebooks software as we will explain it below.
+   - The notebook file will have a `.ipynb` extension that you can open it in a Jupyter Notebooks software as we explain below.
 
 
 ### Conda installation
