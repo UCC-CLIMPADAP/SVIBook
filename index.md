@@ -20,11 +20,11 @@ The tool is designed to assess communities’ vulnerability to climate hazards s
 ## <i class="fas fa-concierge-bell" style="color:#1665ad"></i> [Introduction](introduction/overview.md)
 Social Vulnerability tool description, software installation
 
-## <i class="fas fa-road" style="color:#d45f6c"></i> [Social Vulnerability Index](SVI_Descr/Why.md)
-Social Vulnerability Index theoretical description
+## <i class="fas fa-road" style="color:#d45f6c"></i> [Social Vulnerability Concepts](SVI_Descr/Why.md)
+Social Vulnerability Index basic concepts
 
-## <i class="fas fa-sitemap" style="color:#6dae5c"></i> [User guide](UsrGuide/Overview.md)
-Detailed description and guide for the users of this tool 
+## <i class="fas fa-sitemap" style="color:#6dae5c"></i> [Methodology](Methodology/Overview.md)
+Detailed description of the methodology behind the SVI
 
 ## <i class="fas fa-users" style="color:#9933ff"></i> [Case Studies: Cork](Cities/Cork.md)
 Social vulnerability index for Cork
