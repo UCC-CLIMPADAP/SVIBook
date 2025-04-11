@@ -4,7 +4,7 @@
 
 
 
-```{image} cork_city_social_vulnerability_index_2022_300dpi.png
+```{image} ./img/cork_city_social_vulnerability_index_2022_300dpi.png
 :alt: Vulnerability_Cork
 :class: bg-primary mb-1
 :width: 500px
@@ -42,4 +42,4 @@ The authors would like to thank the local authorities in each of the regions who
 This work was primarily supported by the REACHOUT project, which has received funding from the European Union's Horizon 2020 research and innovation program (grant number 101036599). There was also additional support from the Environmental Protection Agency (EPA) Research Programme 2021–2030, as a part of the TALX2 project (grant number 2023-CE-1227) and the European Union's Horizon 2020 research and innovation program through the Directed project (grant number 101073978).
 
 
-![Reachout_Logo](Reachout_Logo.png)
+![Reachout_Logo](./img/Reachout_Logo.png)
