@@ -4,9 +4,11 @@ The case studies are in the form of [Jupyter notebooks](https://jupyter.org/), a
 
 On this guide you find the information and guidance required to set yourself up to run the Jupyter Notebooks through your desktop or laptop. We are going to give you the information and the steps required to download, set up, and then run the notebooks on your own desktop and laptop. 
 
-### Key Concepts
+### General Definitions
 
 If you are considering to work with the Jupyter Notebooks on your own desktop or laptop, it is important that you are aware of some key concepts or information that you'll find in this tutorial or during the preparation and installation process. 
+
+:::{dropdown} Key Concepts
 
 - **Dependencies** are all of the software components required by your notebook in for it to work as intended and avoid runtime errors. They can be libraries, frameworks, or other programs. 
 
@@ -42,6 +44,7 @@ If you are considering to work with the Jupyter Notebooks on your own desktop or
 - **Conda-forge** is a community channel made up of thousands of contributors, which contains repositories of conda recipes and thus provides conda packages 
   for a wide range of software. The `conda-forge` channel is free for all to use. For more information visit [conda-forge documentation](https://conda-forge.org/docs/).
 
+:::
 
 ### Download a case study
 
