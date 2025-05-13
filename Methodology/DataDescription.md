@@ -1,7 +1,8 @@
 # Data Description
 Census Data:
-For example, The Central Statistics Office (CSO) has produced a dataset of small area statistics for the 2016 Census. This will be the main data source for use with the Irish vulnerability Assessment. 
+For example, The Central Statistics Office (CSO) has produced a dataset of small area statistics for the 2022 Census. This will be the main data source for use with the Irish vulnerability Assessment. 
 The Spanish Census data available at the Instituto Nacional de Estadística (INE; lit. 'National Statistics Institute') which is the official agency in Spain that collects statistics about demography, economy, and Spanish society.
+For the Italian case, the results of the Permanent Census of Population and Housing are disseminated by the Italian National Institute of Statistics (ISTAT; lit. 'Istituto Nazionale di Statistica'), a public research organisation, which is the main producer of official statistics in the service of citizens and policy-makers. 
 
 Copernicus Data:
 Copernicus is the Earth observation component of the European Union’s Space programme, looking at our planet and its environment to benefit all European citizens. It offers information services that draw from satellite Earth Observation and in-situ (non-space) data.

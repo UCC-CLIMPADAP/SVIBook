@@ -34,5 +34,5 @@ html:
   announcement: "⚠️This is a BETA version which is still under under development before its official release⚠️" 
 
 # Add a bibtex file so that we can create citations
-#bibtex_bibfiles:
-#  - references.bib
+bibtex_bibfiles:
+  - references.bib
