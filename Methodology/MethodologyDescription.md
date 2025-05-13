@@ -98,7 +98,10 @@ While <a href="https://www.nature.com/articles/s41598-024-68060-z">Wehbe and Bar
 
 ## Accessibility
 To ensure widespread accessibility, all material in this research can be reproduced using the open-sourced code and data. The dataset chosen for socio-economic data was the national census which employs open access baseline data that is familiar to users globally and is consistently collected on a ten-year timeframe in almost all countries, providing an excellent repository of information that exists as a global standard.
-All code and data from each of the three case studies in the REACHOUT project (Cork, Logroño, Milan) are available to users the case studies section4). As the case studies in Rimini and Northern Ireland (outlined in supplementary material) are further developed, these inputs and outputs will also be included in the open repository. ```{bibliography}
+All code and data from each of the three case studies in the REACHOUT project (Cork, Logroño, Milan) are available to users the case studies section4). As the case studies in Rimini and Northern Ireland (outlined in supplementary material) are further developed, these inputs and outputs will also be included in the open repository.
+
+## References
+ ```{bibliography}
 ```
 
 
