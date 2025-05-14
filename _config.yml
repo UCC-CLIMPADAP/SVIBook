@@ -7,8 +7,10 @@
 # Book seetings
 title: Social Vulnerability Index For Cities
 author: Walther Camaro Garcia, Denise McCullagh, Declan Dunne, Cathal Gannon, Christopher Phillips, Lydia Cumiskey
+copyright: "2025"
 logo: ./img/SVI_LOGO.png
-description: Handbook for the implementation and integration of the Social Vulnerability Index for Cities considering several Envvironmental Hazards 
+description: Handbook for the implementation and integration of the Social Vulnerability Index for Cities considering several Envvironmental Hazards
+exclude_patterns: ["**.ipynb_checkpoints"]
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
