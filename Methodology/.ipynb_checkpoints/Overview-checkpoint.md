@@ -1,2 +1,0 @@
-# Overview
-This section describes in a detailed way the methodology proposed under this study, including the relevant information about the different data inputs and the challenge of integrating this information under several case studies. 
